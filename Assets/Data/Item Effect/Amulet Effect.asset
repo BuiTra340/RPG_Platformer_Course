@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff97d6f668c46664c81c3d6f2be71e99, type: 3}
+  m_Name: Amulet Effect
+  m_EditorClassIdentifier: 
+  thunderStrikePrefab: {fileID: 450333715875460839, guid: c2f640998e07e10449de538d765974ae, type: 3}

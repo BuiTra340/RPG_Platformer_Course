@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4085542c378ea548af3df8a865ae5b3, type: 3}
+  m_Name: Flask Buff
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Flask Buff
+  icon: {fileID: -1095196993, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  chanceDrop: 39.7
+  equipmentType: 3
+  itemEffects:
+  - {fileID: 11400000, guid: 6f217860ec6141c44ab586adebfff08c, type: 2}
+  - {fileID: 11400000, guid: de77f25546bb24f4190f9c9052b6f056, type: 2}
+  itemCooldown: 3
+  strength:
+    baseValue: 0
+    modifiers: 
+  agility:
+    baseValue: 0
+    modifiers: 
+  intelligence:
+    baseValue: 0
+    modifiers: 
+  vitality:
+    baseValue: 0
+    modifiers: 
+  armor:
+    baseValue: 0
+    modifiers: 
+  maxHealth:
+    baseValue: 0
+    modifiers: 
+  evasion:
+    baseValue: 0
+    modifiers: 
+  damage:
+    baseValue: 0
+    modifiers: 
+  critChance:
+    baseValue: 0
+    modifiers: 
+  critPower:
+    baseValue: 0
+    modifiers: 
+  magicResistance:
+    baseValue: 0
+    modifiers: 
+  fireDamage:
+    baseValue: 0
+    modifiers: 
+  iceDamage:
+    baseValue: 0
+    modifiers: 
+  lightingDamage:
+    baseValue: 0
+    modifiers: 
+  craftingMaterials: []

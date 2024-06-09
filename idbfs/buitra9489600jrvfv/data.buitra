@@ -1,0 +1,112 @@
+{
+    "currency": 392,
+    "inventory": {
+        "keys": [
+            "a48587cb3b08f4141822a6f1ca372356",
+            "896db2fb06ae6d44fad18de98947c929",
+            "b718eca8c278686469dbf7eff84cc61c",
+            "66ef2d7c781d52b4da48708a751d1975",
+            "5acb360fd705f1a4f85050ac16504dfb",
+            "c233bc164f3014e4491299e1225a2ebd",
+            "41f26864a434e4e4d9d7f9c6258501b9",
+            "81a8ecb4311218144853cf33f97bc5e1",
+            "334dd0f6ef6e5834ba896dc77b27945b",
+            "56df797dadd553f42a34ae61fcfa8584"
+        ],
+        "values": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            126,
+            1,
+            1,
+            3,
+            1
+        ]
+    },
+    "equipmentId": [
+        "c233bc164f3014e4491299e1225a2ebd",
+        "896db2fb06ae6d44fad18de98947c929",
+        "9dc0dd904d353674397c1e8f7200b429"
+    ],
+    "skillTree": {
+        "keys": [
+            "Swrod Throw",
+            "Dash - \"Here I am\"",
+            "Bullet Sword",
+            "Chain saw sword",
+            "Mirage Blink",
+            "Vulnerability",
+            "Dash - \"Actually Here I am\"",
+            "Dodge mirage",
+            "Bouncy Sword",
+            "Aggressive mirage",
+            "Parry",
+            "Crystal",
+            "Dash",
+            "Controlled Destruction",
+            "Parry with a mirage",
+            "BlackHole",
+            "Restory with party",
+            "Dodge",
+            "Multiple mirage",
+            "Time Stop",
+            "Crystal mirage",
+            "Time mirage",
+            "Explosion",
+            "Multiple Destruction"
+        ],
+        "values": [
+            false,
+            true,
+            false,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            false,
+            true,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    "checkPoint": {
+        "keys": [
+            "dd6df3a3-4098-4501-a7ad-78c0186e50f1",
+            "6c5dcaab-537d-4a80-97be-d94b25087ab3"
+        ],
+        "values": [
+            true,
+            true
+        ]
+    },
+    "closestCheckPointId": "dd6df3a3-4098-4501-a7ad-78c0186e50f1",
+    "lostCurrencyAmount": 0,
+    "lostCurrencyX": 0.39686697721481326,
+    "lostCurrencyY": 4.322592735290527,
+    "sliderVolume": {
+        "keys": [
+            "sfx",
+            "bgm"
+        ],
+        "values": [
+            0.4450474679470062,
+            0.0010000000474974514
+        ]
+    }
+}
